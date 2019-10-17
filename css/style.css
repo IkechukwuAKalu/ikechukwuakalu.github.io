@@ -364,6 +364,10 @@ button:focus,
     font-weight   : 700;
     }
 
+.expertise-item p {
+    text-align: justify;
+}
+
 /*-------------------
  * Skills Progressbar
  *-------------------*/
@@ -468,7 +472,11 @@ button:focus,
     line-height    : 1;
     font-weight    : bold;
     text-transform : uppercase;
-    }
+}
+
+.content-item p {
+    text-align: justify;
+}
 
 .content-item h4 {
     margin      : 0;
