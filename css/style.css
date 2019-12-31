@@ -574,4 +574,11 @@ button:focus,
     margin     : 0;
     text-align : center;
     top        : 65%;
-    }
+}
+
+.more-desc {
+    color: #888888;
+    font-size: 14px;
+    padding-right: 20px;
+    text-align: justify;
+}
